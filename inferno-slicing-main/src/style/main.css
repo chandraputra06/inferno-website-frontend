@@ -1,0 +1,6 @@
+@import url("./config/base.css");
+@import url("./config/variable.css");
+@import url("header.css");
+@import url(banner.css);
+@import url(work.css);
+@import url(aboutus.css);
