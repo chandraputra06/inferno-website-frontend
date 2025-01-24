@@ -1,0 +1,12 @@
+.client-logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 200px;
+}
+
+.position {
+    display: flex;
+    flex-direction: row;
+    gap: 108px;
+}
